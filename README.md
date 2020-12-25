@@ -19,3 +19,8 @@ Git 操作其实很简单，只需多加练习，在实际应用中逐渐领悟�
 这条链接导向了GitHub网站的全部文档。如果只了解github.com的操作就选择右边栏的github.com
 
 但是我还下载了GitHub desktop，if you are like me， 还应该看看GitHub desktop 的文档。
+
+# why github document
+文档包含的内容全面，结构清晰
+
+配色完全符合我的审美
