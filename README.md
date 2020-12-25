@@ -20,6 +20,10 @@ Git 操作其实很简单，只需多加练习，在实际应用中逐渐领悟�
 
 但是我还下载了GitHub desktop，if you are like me， 还应该看看GitHub desktop 的文档。
 
+我始终觉得我们应该努力成为的是`good programmer`，而不仅仅是 `Github user` ，你觉得呢
+
+所以学习GitHub不是一步到位的过程，更多的时候是spiral learning 的过程
+
 # why github document
 文档包含的内容全面，结构清晰
 
